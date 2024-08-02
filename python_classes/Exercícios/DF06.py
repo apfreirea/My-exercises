@@ -1,0 +1,6 @@
+n1=int(input('Escolha um número inteiro.'))
+print(f'O número escolhido foi {n1}, certo?')
+dob=(n1*2)
+trip=(n1*3)
+raiz=(n1*0.5)
+print(f'De acordo com o número escolhido obtemos os seguintes resultados: \n O seu dobro é {dob}, \n o seu triplo é {trip} e \n a sua raiz quadrada é {raiz:.2}.')
